@@ -1,0 +1,238 @@
+.logo_nav {
+    width: 10vh;
+    margin-right: 5vh;
+    }
+    
+    .logos {
+        display: flex;
+    }
+    
+    .h1_nav {
+        font-size: 3.5vh;
+        
+    }
+    
+    .PDS {
+        background-color: #b20000;
+        color: white;
+        padding: 0.5vh;
+        border-radius: 0.5vh;
+    }
+    
+    .quadrado_1 {
+        width: 45vh;
+        height: 40vh;
+        background-color: #b20000;
+        border-radius: 5vh;
+        text-align: center;
+    }
+    
+    .quadrado_2 {
+        width: 45vh;
+        height: 40vh;
+        background-color: #b20000;
+        border-radius: 5vh;
+        text-align: center;
+    }
+    
+    .quadrado_3 {
+        width: 45vh;
+        height: 40vh;
+        background-color: #b20000;
+        border-radius: 5vh;
+        text-align: center;
+    }
+    
+    .todo1 {
+        display: flex; align-items: center; justify-content: center;
+        margin-top: 5vh;
+    }
+    
+    .todo1i {
+        display: flex; align-items: center; justify-content: center;
+        margin-top: 13vh;
+    }
+    
+    .todo2 {
+        display: flex; align-items: center; justify-content: center;
+        margin-top: 5vh;
+    }
+    
+    .todo3 {
+        display: flex; align-items: center; justify-content: center;
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+    }
+    
+    .h1e {
+        color: black;
+        font-size: 5vh;
+        margin-top: 10vh;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .eteccdl {
+        width: 35vh;
+        border-radius: 3vh;
+        margin-top: 1vh;
+        
+    }
+    
+    .eteccdl2 {
+        width: 20vh;
+        border-radius: 3vh;
+        
+    }
+    
+    .qdi {
+        width: 100%;
+        height: 25vh;
+        display: flex; align-items: center; justify-content: center;
+    }
+    
+    .aq1 {
+        text-decoration: none;
+        color: white;
+    }
+
+    .qdi2 {
+        width: 100%;
+        height: 27vh;
+        display: flex; align-items: center; justify-content: center;
+    }
+    
+    .qdi22 {
+        text-decoration: none;
+        color: white;
+    }
+    
+    .h1q1 {
+        text-align: center;
+        color: white;
+        margin-top: 2vh;
+    }
+
+    @media (min-width: 480px) {
+        .quadrado_1 {
+            width: 45vh;
+            height: 80vh;
+        }
+        
+        .quadrado_2 {
+            width: 45vh;
+            height: 80vh;
+        }
+        
+        .quadrado_3 {
+            width: 45vh;
+            height: 80vh;
+        }
+        
+        .eteccdl {
+            width: 40vh;
+            border-radius: 3vh;
+            margin-top: 35vh;
+            
+        }
+    
+        .qdi {
+     height: 50vh;
+        }
+    
+        .qdi12 {
+    margin-top: 5vh;
+        }
+        
+        .eteccdl {
+            width: 40vh;
+            border-radius: 3vh;
+            margin-top: 0vh;
+            
+        }
+    
+        .eteccdl2 {
+            width: 40%;
+            border-radius: 3vh;
+            margin-top: 5vh;
+            
+        }
+    
+        .qdi2 {
+            height: 50vh;
+        }
+    
+        .qdi22 {
+    margin-top: 5vh;
+    
+        }
+    
+      }
+
+      @media (min-width: 600px) {
+        .quadrado_1 {
+            width: 50vh;
+            height: 80vh;
+        }
+        
+        .quadrado_2 {
+            width: 50vh;
+            height: 80vh;
+        }
+        
+        .quadrado_3 {
+            width: 50vh;
+            height: 80vh;
+        }
+        
+        .eteccdl {
+            width: 40vh;
+            border-radius: 3vh;
+            margin-top: 35vh;
+            
+        }
+    
+        .qdi {
+     height: 50vh;
+        }
+    
+        .qdi12 {
+    margin-top: 5vh;
+        }
+        
+        .eteccdl {
+            width: 45vh;
+            border-radius: 3vh;
+            margin-top: 0vh;
+            
+        }
+    
+        .eteccdl2 {
+            width: 30vh;
+            border-radius: 3vh;
+            margin-top: 5vh;
+            
+        }
+    
+        .qdi2 {
+            height: 50vh;
+        }
+    
+        .qdi22 {
+    margin-top: 5vh;
+    
+        }
+    
+        .h1q1 {
+            text-align: center;
+            font-size: 5vh;
+            color: white;
+            margin-top: 2vh;
+        }
+
+        .aq1 {
+            text-decoration: none;
+            color: white;
+            font-size: 3vh;
+        }
+      }
